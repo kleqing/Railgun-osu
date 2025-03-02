@@ -4,7 +4,7 @@
 
 ## Download
 
-- [Railgun v1.1](https://github.com/kleqing/Railgun-osu/releases/download/v1.1/Railgun.osk)
+- [Railgun v1.1](https://github.com/kleqing/Railgun/releases/download/v1.1/Railgun.osk)
 
 ## Preview
 
